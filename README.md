@@ -2,7 +2,7 @@
 
 ## 組別資訊
 
-2021_team07_吳限期支持明達增設烜炮澡堂
+2021_team07_吳限期支持明達增設烜炮澡堂  
 
 臺灣大學 電機三 吳沛林 b07901022  
 臺灣大學 電機三 李宇烜 b07901120  
@@ -10,9 +10,9 @@
 
 ## 作品介紹
 
-作品名稱：軌道異物入侵偵測系統
-作品用途：軌道異物入侵偵測
-DEMO影片連結：[https://youtu.be/aLTHCr8z_qo](https://youtu.be/aLTHCr8z_qo)
+作品名稱：軌道異物入侵偵測系統  
+作品用途：軌道異物入侵偵測  
+DEMO影片連結：[https://youtu.be/aLTHCr8z_qo](https://youtu.be/aLTHCr8z_qo)  
 
 ### 運作方式
 
